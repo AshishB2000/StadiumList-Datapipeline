@@ -1,0 +1,840 @@
+rank,stadium,capacity,city,state,year opened,type,tenant
+1,Bristol Motor Speedway,"156,990",Bristol,Tennessee,1961,"Motorsports, Football","
+"
+2,Michigan Stadium,"107,601",Ann Arbor,Michigan,1927,Football,"Michigan Wolverines (NCAA)
+"
+3,Beaver Stadium,"106,572",University Park,Pennsylvania,1960,Football,"Penn State Nittany Lions (NCAA)
+"
+4,Ohio Stadium,"102,780",Columbus,Ohio,1922,Football,"Ohio State Buckeyes (NCAA)
+"
+5,Kyle Field,"102,733",College Station,Texas,1927,Football,"Texas A&M Aggies (NCAA)
+"
+6,Tiger Stadium,"102,321",Baton Rouge,Louisiana,1924,Football,"LSU Tigers (NCAA)
+"
+7,Neyland Stadium,"101,915",Knoxville,Tennessee,1921,Football,"Tennessee Volunteers (NCAA)
+"
+8,Darrell K Royal–Texas Memorial Stadium,"100,119",Austin,Texas,1924,Football,"Texas Longhorns (NCAA)
+"
+9,Bryant–Denny Stadium,"100,077",Tuscaloosa,Alabama,1929,Football,"Alabama Crimson Tide (NCAA)
+"
+10,Sanford Stadium,"92,746",Athens,Georgia,1929,Football,"Georgia Bulldogs (NCAA)
+"
+11,Rose Bowl,"92,542",Pasadena,California,1922,Football,"UCLA Bruins (NCAA) Rose Bowl Game (NCAA)
+"
+12,Cotton Bowl,"92,100",Dallas,Texas,1930,Football,"Red River Rivalry (NCAA) State Fair Classic (NCAA)
+"
+13,Ben Hill Griffin Stadium,"88,548",Gainesville,Florida,1930,Football,"Florida Gators (NCAA)
+"
+14,Jordan-Hare Stadium,"88,043",Auburn,Alabama,1939,Football,"Auburn Tigers (NCAA)
+"
+15,Memorial Stadium,"85,458",Lincoln,Nebraska,1923,Football,"Nebraska Cornhuskers (NCAA)
+"
+16,MetLife Stadium,"82,500",East Rutherford,New Jersey,2010,Football,"New York Giants (NFL) New York Jets (NFL)
+"
+17,Memorial Stadium,"81,500",Clemson,South Carolina,1942,Football,"Clemson Tigers (NCAA)
+"
+18,Lambeau Field,"81,441",Green Bay,Wisconsin,1957,Football,Green Bay Packers (NFL)
+19,Gaylord Family Oklahoma Memorial Stadium,"80,126",Norman,Oklahoma,1925,Football,Oklahoma Sooners (NCAA)
+20,AT&T Stadium,"80,000",Arlington,Texas,2009,Football,"Dallas Cowboys (NFL) Cotton Bowl Classic (NCAA) Big 12 Championship Game (NCAA)
+"
+21,Doak Campbell Stadium,"79,560",Tallahassee,Florida,1950,Football,"Florida State Seminoles (NCAA)
+"
+22,Notre Dame Stadium,"77,662",Notre Dame,Indiana,1930,Football,"Notre Dame Fighting Irish (NCAA)
+"
+23,Williams–Brice Stadium,"77,559",Columbia,South Carolina,1934,Football,South Carolina Gamecocks (NCAA)
+24,Los Angeles Memorial Coliseum,"77,500",Los Angeles,California,1923,"Football, Motorsports","USC Trojans (NCAA)
+"
+25,GEHA Field at Arrowhead Stadium,"76,416",Kansas City,Missouri,1972,Football,"Kansas City Chiefs (NFL)
+"
+26,Donald W. Reynolds Razorback Stadium,"76,212",Fayetteville,Arkansas,1938,Football,"Arkansas Razorbacks  (NCAA) (primary)
+"
+27,Empower Field,"76,125",Denver,Colorado,2001,Football,"Denver Broncos (NFL)
+"
+28,Camp Randall Stadium,"75,822",Madison,Wisconsin,1917,Football,"Wisconsin Badgers (NCAA)
+"
+29,Spartan Stadium,"75,005",East Lansing,Michigan,1923,Football,"Michigan State Spartans (NCAA)
+"
+30,Bank of America Stadium,"74,867",Charlotte,North Carolina,1996,Football,"Carolina Panthers (NFL) Duke's Mayo Bowl (NCAA) ACC Championship Game (NCAA) Charlotte FC (MLS)
+"
+31,Caesars Superdome,"73,208",New Orleans,Louisiana,1975,Football,"New Orleans Saints (NFL) Sugar Bowl (NCAA) New Orleans Bowl (NCAA) Bayou Classic (NCAA)
+"
+32,NRG Stadium,"72,220",Houston,Texas,2002,Football,"Houston Texans (NFL) Texas Bowl (NCAA)
+"
+33,Highmark Stadium,"71,608",Orchard Park,New York,1973,Football,"Buffalo Bills (NFL)
+"
+34,Legion Field,"71,594",Birmingham,Alabama,1926,Football,"
+"
+35,Mercedes-Benz Stadium,"71,000",Atlanta,Georgia,2017,"Football, soccer","Atlanta Falcons (NFL) Atlanta United FC (MLS) Peach Bowl (NCAA) SEC Championship Game (NCAA)
+"
+36,M&T Bank Stadium,"70,745",Baltimore,Maryland,1998,Football,"Baltimore Ravens (NFL)
+"
+37,SoFi Stadium,"70,240",Inglewood,California,2020,Football,"Los Angeles Rams (NFL) Los Angeles Chargers (NFL)LA Bowl (NCAA)
+"
+38,Husky Stadium,"70,083",Seattle,Washington,1920,Football,"Washington Huskies (NCAA)
+"
+39,Kinnick Stadium,"69,250",Iowa City,Iowa,1929,Football,"Iowa Hawkeyes (NCAA)
+"
+40,Raymond James Stadium,"69,218",Tampa,Florida,1998,Football,"Tampa Bay Buccaneers (NFL) South Florida Bulls (NCAA) Tampa Bay Bowl (NCAA) Gasparilla Bowl (NCAA)
+"
+41,Nissan Stadium,"69,143",Nashville,Tennessee,1999,Football,"Tennessee Titans (NFL) Tennessee State Tigers (NCAA) Music City Bowl (NCAA)
+"
+42,Lumen Field,"68,740",Seattle,Washington,2002,"Football, soccer","Seattle Seahawks (NFL) Seattle Sounders FC (MLS)  OL Reign (NWSL)  Seattle Sea Dragons (XFL)
+"
+43,Levi's Stadium,"68,500",Santa Clara,California,2014,Football,"San Francisco 49ers (NFL)
+"
+44,Acrisure Stadium,"68,400",Pittsburgh,Pennsylvania,2001,Football,"Pittsburgh Steelers (NFL) Pittsburgh Panthers (NCAA)
+"
+45,EverBank Stadium,"67,814",Jacksonville,Florida,1995,Football,"Jacksonville Jaguars (NFL) Gator Bowl (NCAA) Florida vs. Georgia Football Classic (NCAA)
+"
+46,Lincoln Financial Field,"67,594",Philadelphia,Pennsylvania,2003,Football,Philadelphia Eagles (NFL) Temple Owls (NCAA) Army–Navy Game (NCAA) (most years)
+47,Cleveland Browns Stadium,"67,431",Cleveland,Ohio,1999,Football,"Cleveland Browns (NFL)
+"
+48,The Dome at America's Center,"67,277",St. Louis,Missouri,1995,Football,"St Louis Battlehawks (XFL)
+"
+49,US Bank Stadium,"66,655",Minneapolis,Minnesota,2016,Football,"Minnesota Vikings (NFL)
+"
+50,Gillette Stadium,"65,878",Foxborough,Massachusetts,2002,"Football, soccer","New England Patriots (NFL) New England Revolution (MLS)
+"
+51,Lane Stadium,"65,632",Blacksburg,Virginia,1965,Football,"Virginia Tech Hokies (NCAA)
+"
+52,Paycor Stadium,"65,515",Cincinnati,Ohio,2000,Football,"Cincinnati Bengals (NFL)
+"
+53,Ford Field,"65,000",Detroit,Michigan,2002,Football,"Detroit Lions (NFL) Quick Lane Bowl (NCAA) MAC Championship Game (NCAA)  Michigan Panthers (USFL)
+"
+54,Allegiant Stadium,"65,000",Las Vegas,Nevada,2020,Football,"Las Vegas Raiders (NFL) UNLV Rebels (NCAA)Pac-12 Championship Game (NCAA) Las Vegas Bowl (NCAA)
+"
+55,Ross–Ade Stadium,"65,000",West Lafayette,Indiana,1924,Football,"Purdue Boilermakers (NCAA)
+"
+56,Hard Rock Stadium,"64,767",Miami Gardens,Florida,1987,Football,"Miami Dolphins (NFL) Miami Hurricanes (NCAA) Orange Bowl (NCAA)
+"
+57,Vaught–Hemingway Stadium,"64,038",Oxford,Mississippi,1915,Football,"Ole Miss Rebels (NCAA)
+"
+58,Alamodome,"64,000",San Antonio,Texas,1993,Football,"UTSA Roadrunners (NCAA) Alamo Bowl (NCAA)  San Antonio Brahmas (XFL)  U.S. Army All-American Bowl (High School)
+"
+59,LaVell Edwards Stadium,"63,470",Provo,Utah,1964,Football,"BYU Cougars (NCAA)
+"
+60,State Farm Stadium,"63,400",Glendale,Arizona,2006,Football,"Arizona Cardinals (NFL) Fiesta Bowl (NCAA)
+"
+61,California Memorial Stadium,"63,186",Berkeley,California,1923,Football,"California Golden Bears (NCAA)
+"
+62,Lucas Oil Stadium,"63,000",Indianapolis,Indiana,2008,Football,"Indianapolis Colts (NFL) Big Ten Championship Game (NCAA)
+"
+63,FedExField,"62,000",Landover,Maryland,1997,Football,Washington Commanders (NFL)
+64,Faurot Field,"61,620",Columbia,Missouri,1926,Football,"Missouri Tigers (NCAA)
+"
+65,Soldier Field,"61,500",Chicago,Illinois,1924;2003,"Football, soccer","Chicago Bears (NFL)Chicago Fire (MLS)
+"
+66,Scott Stadium,"61,500",Charlottesville,Virginia,1931,Football,"Virginia Cavaliers (NCAA)
+"
+67,Jack Trice Stadium,"61,500",Ames,Iowa,1975,Football,"Iowa State Cyclones (NCAA)
+"
+68,Yale Bowl,"61,446",New Haven,Connecticut,1914,Football,"Yale Bulldogs (NCAA)
+"
+69,Davis Wade Stadium,"61,337",Starkville,Mississippi,1914,Football,"Mississippi State Bulldogs (NCAA)
+"
+70,Kroger Field,"61,000",Lexington,Kentucky,1973,Football,"Kentucky Wildcats (NCAA)
+"
+71,Cardinal Stadium,"60,800",Louisville,Kentucky,1998,Football,"Louisville Cardinals (NCAA)
+"
+72,Memorial Stadium,"60,670",Champaign,Illinois,1923,Football,"Illinois Fighting Illini (NCAA)
+"
+73,Mississippi Veterans Memorial Stadium,"60,492",Jackson,Mississippi,1941,Football,"Jackson State Tigers (NCAA)
+"
+74,Jones AT&T Stadium,"60,454",Lubbock,Texas,1947,Football,"Texas Tech Red Raiders (NCAA)
+"
+75,Camping World Stadium,"60,219",Orlando,Florida,1936,Football,"Florida Classic (NCAA) Citrus Bowl (NCAA) Pop-Tarts Bowl (NCAA)  Orlando Guardians (XFL)
+"
+76,Mountaineer Field,"60,000",Morgantown,West Virginia,1980,Football,"West Virginia Mountaineers (NCAA)
+"
+77,Simmons Bank Liberty Stadium,"58,325",Memphis,Tennessee,1965,Football,"Memphis Tigers (NCAA) Liberty Bowl (NCAA)  Memphis Showboats (USFL)
+"
+78,Carter–Finley Stadium,"56,919",Raleigh,North Carolina,1966,Football,"NC State Wolfpack (NCAA)
+"
+79,Dodger Stadium,"56,000",Los Angeles,California,1962,Baseball,"Los Angeles Dodgers (MLB)
+"
+80,Boone Pickens Stadium,"55,509",Stillwater,Oklahoma,1920,Football,"Oklahoma State Cowboys (NCAA)
+"
+81,Bobby Dodd Stadium at Historic Grant Field,"55,000",Atlanta,Georgia,1913,Football,"Georgia Tech Yellow Jackets (NCAA)
+"
+82,War Memorial Stadium,"54,120",Little Rock,Arkansas,1948,Football,"Arkansas Razorbacks (NCAA) (secondary to Razorback Stadium)
+"
+83,Autzen Stadium,"53,800",Eugene,Oregon,1967,Football,"Oregon Ducks (NCAA)
+"
+84,Sun Devil Stadium,"53,599",Tempe,Arizona,1958,Football,"Arizona State Sun Devils (NCAA)
+"
+85,Memorial Stadium,"52,626",Bloomington,Indiana,1960,Football,"Indiana Hoosiers (NCAA)
+"
+86,Franklin Field,"52,593",Philadelphia,Pennsylvania,1895,Football,"Penn Quakers (NCAA)
+"
+87,SHI Stadium,"52,454",Piscataway,New Jersey,1994,Football,"Rutgers Scarlet Knights (NCAA)
+"
+88,SECU Stadium,"51,802",College Park,Maryland,1950,Football,"Maryland Terrapins (NCAA)
+"
+89,Sun Bowl Stadium,"51,500",El Paso,Texas,1963,Football,"UTEP Miners (NCAA) Sun Bowl (NCAA)
+"
+90,Rice-Eccles Stadium,"51,444",Salt Lake City,Utah,1998,Football,"Utah Utes (NCAA)
+"
+91,Dowdy–Ficklen Stadium,"51,000",Greenville,"North Carolina
+",1963,Football,"East Carolina Pirates (NCAA)
+"
+92,Independence Stadium,"50,832",Shreveport,Louisiana,1925,Football,"Independence Bowl (NCAA)  Local high school teams
+"
+93,Huntington Bank Stadium,"50,805",Minneapolis,Minnesota,2009,Football,"Minnesota Golden Gophers (NCAA)
+"
+94,Arizona Stadium,"50,800",Tucson,Arizona,1928,Football,"Arizona Wildcats (NCAA) Arizona Bowl (NCAA)
+"
+95,Kenan Memorial Stadium,"50,500",Chapel Hill,North Carolina,1927,Football,"North Carolina Tar Heels (NCAA)
+"
+96,Stanford Stadium,"50,424",Stanford,California,1921;2006,Football,"Stanford Cardinal (NCAA)
+"
+97,Folsom Field,"50,183",Boulder,Colorado,1924,Football,"Colorado Buffaloes (NCAA)
+"
+98,Bill Snyder Family Football Stadium,"50,000",Manhattan,Kansas,1968,Football,"Kansas State Wildcats (NCAA)
+"
+99,Aloha Stadium,"50,000",Honolulu,Hawaiʻi,1975,Football,"Closed; to be demolished
+"
+100,JMA Wireless Dome,"49,057",Syracuse,New York,1980,Multi-purpose,"Syracuse Orange (NCAA)
+"
+101,Chase Field,"48,405",Phoenix,Arizona,1998,Baseball,"Arizona Diamondbacks (MLB) Guaranteed Rate Bowl (NCAA)
+"
+102,Choctaw Stadium,"48,114",Arlington,Texas,1994,Multi-purpose,"Arlington Renegades (XFL)  Dallas Jackals (MLR)  North Texas SC (USL League One)
+"
+103,T-Mobile Park,"47,929",Seattle,Washington,1999,Baseball,"Seattle Mariners (MLB)
+"
+104,David Booth Kansas Memorial Stadium,"47,233",Lawrence,Kansas,1921,Football,"Kansas Jayhawks (NCAA)
+"
+105,Ryan Field,"47,130",Evanston,Illinois,1996,Football,"Northwestern Wildcats (NCAA)
+"
+106,Protective Stadium,"47,100",Birmingham,Alabama,2021,Football,UAB Blazers (NCAA)Birmingham Legion FC (USL Championship)Birmingham Bowl (NCAA)  Birmingham Stallions (USFL)
+107,Rice Stadium,"47,000",Houston,Texas,1950,Football,"Rice Owls (NCAA)
+"
+108,Amon G. Carter Stadium,"47,000",Fort Worth,Texas,1930,Football,"TCU Horned Frogs (NCAA) Armed Forces Bowl (NCAA)
+"
+109,Coors Field,"46,897",Denver,Colorado,1995,Baseball,"Colorado Rockies (MLB)
+"
+110,Oakland Coliseum,"46,847",Oakland,California,1966,Multi-purpose,"Oakland Athletics (MLB)
+"
+111,Falcon Stadium,"46,692",Colorado Springs,Colorado,1962,Football,"Air Force Falcons (NCAA)
+"
+112,Yankee Stadium,"46,537",New York,New York,2009,"Baseball, soccer","New York Yankees (MLB) New York City FC (MLS) Pinstripe Bowl (NCAA)
+"
+113,Angel Stadium,"45,517",Anaheim,California,1966,Baseball,"Los Angeles Angels (MLB)
+"
+114,FBC Mortgage Stadium,"45,301",Orlando,Florida,2007,Football,"UCF Knights (NCAA)
+"
+115,McLane Stadium,"45,140",Waco,Texas,2014,Football,Baylor Bears (NCAA)
+116,Alumni Stadium,"44,500",Chestnut Hill,Massachusetts,1957,Football,"Boston College Eagles (NCAA)
+"
+117,Oriole Park,"44,970",Baltimore,Maryland,1992,Baseball,"Baltimore Orioles (MLB)
+"
+118,Busch Stadium,"44,383",St. Louis,Missouri,2006,Baseball,"St. Louis Cardinals (MLB)
+"
+119,Great American Ball Park,"43,500",Cincinnati,Ohio,2003,Baseball,"Cincinnati Reds (MLB)
+"
+120,Citizens Bank Park,"42,901",Philadelphia,Pennsylvania,2004,Baseball,"Philadelphia Phillies (MLB)
+"
+121,Tropicana Field,"42,735",St. Petersburg,Florida,1990,Baseball,"Tampa Bay Rays (MLB) East–West Shrine Game (NCAA)
+"
+122,Citi Field,"41,922", New York,New York,2009,Baseball,"New York Mets (MLB)
+"
+123,Oracle Park,"41,915",San Francisco,California,2000,Baseball,"San Francisco Giants (MLB)
+"
+124,American Family Field,"41,900",Milwaukee,Wisconsin,2001,Baseball,"Milwaukee Brewers (MLB)
+"
+125,Wrigley Field,"41,649",Chicago,Illinois,1914,Baseball,"Chicago Cubs (MLB)
+"
+126,Nationals Park,"41,339","Washington, D.C.",District of Columbia,2008,Baseball,"Washington Nationals (MLB)
+"
+127,Cajun Field,"41,264",Lafayette,Louisiana,1971,Football,"Louisiana Ragin' Cajuns (NCAA)
+"
+128,Minute Maid Park,"41,168",Houston,Texas,2000,Baseball,"Houston Astros (MLB)
+"
+129,Truist Park,"41,084",Cumberland,Georgia,2017,Baseball,"Atlanta Braves (MLB)
+"
+130,Comerica Park,"41,083",Detroit,Michigan,2000,Baseball,"Detroit Tigers (MLB)
+"
+131,Valley Children's Stadium,"40,727",Fresno,California,1980,Football,"Fresno State Bulldogs (NCAA)
+"
+132,Guaranteed Rate Field,"40,615",Chicago,Illinois,1991,Baseball,"Chicago White Sox (MLB)
+"
+133,FirstBank Stadium,"40,350",Nashville,Tennessee,1922,Football,"Vanderbilt Commodores (NCAA)
+"
+134,Globe Life Field,"40,300",Arlington,Texas,2020,Baseball,"Texas Rangers (MLB)
+"
+135,Petco Park,"40,209",San Diego,California,2004,Baseball,"San Diego Padres (MLB)Holiday Bowl (NCAA)
+"
+136,Wallace Wade Stadium,"40,004",Durham,North Carolina,1929,Football,"Duke Blue Devils (NCAA)
+"
+137,Ladd-Peebles Stadium,"40,000",Mobile,Alabama,1948,Football,"Local high school sports
+"
+138,Howard J. Lamade Stadium,"40,000[36]",South Williamsport,Pennsylvania,1959,Baseball,"Little League World Series
+"
+139,TDECU Stadium,"40,000",Houston,Texas,2014,Football,"Houston Cougars (NCAA)  Houston Roughnecks (XFL)
+"
+140,University Stadium,"39,224",Albuquerque,New Mexico,1960,Football,"New Mexico Lobos (NCAA) New Mexico Bowl (NCAA)
+"
+141,PNC Park,"38,747",Pittsburgh,Pennsylvania,2001,Baseball,"Pittsburgh Pirates (MLB)
+"
+142,Target Field,"38,544",Minneapolis,Minnesota,2010,Baseball,"Minnesota Twins (MLB)
+"
+143,Nippert Stadium,"38,088[39]",Cincinnati,Ohio,1915,Football,"Cincinnati Bearcats (NCAA)
+"
+144,Pratt & Whitney Stadium,"38,066",East Hartford,Connecticut,2003,Football,"UConn Huskies (NCAA)
+"
+145,Michie Stadium,"38,000",West Point,New York,1924,Football,"Army Black Knights (NCAA)
+"
+146,Kauffman Stadium,"37,903",Kansas City,Missouri,1973,Baseball,"Kansas City Royals (MLB)
+"
+147,Fenway Park,"37,755",Boston,Massachusetts,1912,Baseball,"Boston Red Sox (MLB) Fenway Bowl (NCAA)
+"
+148,Sam Boyd Stadium,"36,800",Las Vegas,Nevada,1971,Football,"USA Sevens and Monster Jam World Finals
+"
+149,LoanDepot Park,"36,742",Miami,Florida,2012,Baseball,"Miami Marlins (MLB)
+"
+150,Canvas Stadium,"36,500",Fort Collins,Colorado,2017,Football,"Colorado State Rams (NCAA)
+"
+151,Albertsons Stadium,"36,387",Boise,Idaho,1970,Football,"Boise State Broncos (NCAA) Famous Idaho Potato Bowl (NCAA)
+"
+152,MM Roberts Stadium,"36,000",Hattiesburg,Mississippi,1932,Football,"Southern Miss Golden Eagles (NCAA)
+"
+153,Reser Stadium,"35,548",Corvallis,Oregon,1953,Football,"Oregon State Beavers (NCAA)
+"
+154,Snapdragon Stadium,"35,000",San Diego,California,2022,Football,"San Diego State Aztecs (NCAA)San Diego Wave (NWSL)  San Diego Legion (MLR) San Diego FC (MLS) (2025)
+"
+155,Progressive Field,"34,788",Cleveland,Ohio,1994,Baseball,"Cleveland Guardians (MLB)
+"
+156,Navy–Marine Corps Memorial Stadium,"34,000",Annapolis,Maryland,1959,Football,"Navy Midshipmen (NCAA) Military Bowl (NCAA)
+"
+157,Martin Stadium,"32,952",Pullman,Washington,1972,Football,"Washington State Cougars (NCAA)
+"
+158,Gerald J. Ford Stadium,"32,000",University Park,Texas,2000,Football,"SMU Mustangs (NCAA)First Responder Bowl (NCAA)
+"
+159,Truist Field,"31,500",Winston-Salem,North Carolina,1968,Football,"Wake Forest Demon Deacons (NCAA)
+"
+160,Apogee Stadium,"30,850",Denton,Texas,2011,Football,"North Texas Mean Green (NCAA)
+"
+161,"Johnny ""Red"" Floyd Stadium","30,788",Murfreesboro,Tennessee,1933,Football,"Middle Tennessee Blue Raiders (NCAA)
+"
+162,Joan C. Edwards Stadium,"30,475",Huntington,West Virginia,1991,Football,"Marshall Thundering Herd (NCAA)
+"
+163,Veterans Memorial Stadium,"30,470",Troy,Alabama,1950,Football,"Troy Trojans (NCAA)
+"
+164,Centennial Bank Stadium,"30,406",Jonesboro,Arkansas,1974,Football,"Arkansas State Red Wolves (NCAA)
+"
+165,Harvard Stadium,"30,323",Allston,Massachusetts,1903,Football,"Harvard Crimson (NCAA)
+"
+166,Kelly/Shorts Stadium,"30,255",Mount Pleasant,Michigan,1972,Football,"Central Michigan Chippewas (NCAA)
+"
+167,Waldo Stadium,"30,200",Kalamazoo,Michigan,1939,Football,"Western Michigan Broncos (NCAA)
+"
+168,Rynearson Stadium,"30,200",Ypsilanti,Michigan,1969,Football,"Eastern Michigan Eagles (NCAA)
+"
+169,Jonah Field at War Memorial Stadium,"30,181",Laramie,Wyoming,1950,Football,"Wyoming Cowboys (NCAA)
+"
+170,Jim Wacker Field at Bobcat Stadium,"30,008",San Marcos,Texas,1981,Football,"Texas State Bobcats (NCAA)
+"
+171,HA Chapman Stadium,"30,000",Tulsa,Oklahoma,1930,Football,"Tulsa Golden Hurricane (NCAA)
+"
+172,Kidd Brewer Stadium,"30,000",Boone,North Carolina,1962,Football,"Appalachian State Mountaineers (NCAA)
+"
+173,"William ""Dick"" Price Stadium","30,000",Norfolk,Virginia,1997,Football,"Norfolk State Spartans (NCAA)
+"
+174,InfoCision Stadium – Summa Field,"30,000",Akron,Ohio,2009,Football,"Akron Zips (NCAA)
+"
+175,Benson Field at Yulman Stadium,"30,000",New Orleans,Louisiana,2014,Football,"Tulane Green Wave (NCAA)
+"
+176,Geodis Park,"30,000",Nashville,Tennessee,2022,Soccer,"Nashville SC (MLS)
+"
+177,FAU Stadium,"29,571",Boca Raton,Florida,2011,Football,"Florida Atlantic Owls (NCAA) Boca Raton Bowl (NCAA)
+"
+178,Aggie Memorial Stadium,"28,853",Las Cruces,New Mexico,1978,Football,"New Mexico State Aggies (NCAA)
+"
+179,Joe Aillet Stadium,"28,562",Ruston,Louisiana,1960,Football,"Louisiana Tech Bulldogs (NCAA)
+"
+180,Princeton Stadium,"27,773",Princeton,New Jersey,1998,Football,"Princeton Tigers (NCAA)
+"
+181,Malone Stadium,"27,617",Monroe,Louisiana,1978,Football,"Louisiana–Monroe Warhawks (NCAA)
+"
+182,Mackay Stadium,"27,000",Reno,Nevada,1966,Football,"Nevada Wolf Pack (NCAA)
+"
+183,Dignity Health Sports Park,"27,000",Carson,California,2003,Soccer,"Los Angeles Galaxy (MLS)
+"
+184,ASU Stadium,"26,500",Montgomery,Alabama,2012,Football,"Alabama State Hornets (NCAA)
+"
+185,Tad Gormley Stadium,"26,500",New Orleans,Louisiana,1936,Multipurpose,"
+"
+186,The Glass Bowl,"26,038",Toledo,Ohio,1937,Football,"Toledo Rockets (NCAA)
+"
+187,TQL Stadium,"25,513",Cincinnati,Ohio,2021,Soccer,"FC Cincinnati (MLS)
+"
+188,Exploria Stadium,"25,500",Orlando,Florida,2017,Soccer,"Orlando City SC (MLS)Orlando Pride (NWSL) Cure Bowl (NCAA)
+"
+189,Ace W. Mumford Stadium,"25,500",Baton Rouge,Louisiana,1928,Football,"Southern Jaguars (NCAA)
+"
+190,Hancock Whitney Stadium,"25,450",Mobile,Alabama,2020,Football,"South Alabama Jaguars (NCAA)68 Ventures Bowl (NCAA)Senior Bowl (NCAA)
+"
+191,Dix Stadium,"25,319[45]
+",Kent,Ohio,1969,Football,"Kent State Golden Flashes (NCAA)
+"
+192,Providence Park,"25,218",Portland,Oregon,1926,Soccer,"Portland Timbers (MLS)Portland Thorns (NWSL) Portland State Vikings (NCAA)
+"
+193,Washington–Grizzly Stadium,"25,217",Missoula,Montana,1986,Football,"Montana Grizzlies (NCAA)
+"
+194,Maverik Stadium,"25,100",Logan,Utah,1968,Football,"Utah State Aggies (NCAA)
+"
+195,UB Stadium,"25,013",Amherst,New York,1993,Football,"Buffalo Bulls (NCAA)
+"
+196,Red Bull Arena,"25,000",Harrison,New Jersey,2010,Soccer,"New York Red Bulls (MLS)Gotham FC (NWSL)
+"
+197,Paulson Stadium,"25,000",Statesboro,Georgia,1984,Football,"Georgia Southern Eagles (NCAA)
+"
+198,Williams Stadium,"25,000",Lynchburg,Virginia,1989,Football,"Liberty Flames (NCAA)
+"
+199,Cramton Bowl,"25,000",Montgomery,Alabama,1922,Football,"Camellia Bowl (NCAA) Local high school teams
+"
+200,Bridgeforth Stadium,"24,877",Harrisonburg,Virginia,1975,Football,"James Madison Dukes (NCAA)
+"
+201,Charles Schwab Field Omaha,"24,505",Omaha,Nebraska,2011,Baseball,"Creighton Bluejays (NCAA) College World Series (NCAA)
+"
+202,Center Parc Stadium,"24,333",Atlanta,Georgia,1996,Football,"Georgia State Panthers (NCAA)
+"
+203,Fred C. Yager Stadium,"24,286",Oxford,Ohio,1983,Football,"Miami RedHawks (NCAA)
+"
+204,Doyt L. Perry Stadium,"24,000",Bowling Green,Ohio,1966,Football,"Bowling Green Falcons (NCAA)
+"
+205,Don Peden Stadium,"24,000",Athens,Ohio,1929,Football,"Ohio Bobcats (NCAA)
+"
+206,JSU Stadium,"24,000",Jacksonville,Alabama,1947,Football,"Jacksonville State Gamecocks (NCAA)
+"
+207,Brigham Field at Huskie Stadium,"24,000",DeKalb,Illinois,1965,Football,"Northern Illinois Huskies (NCAA)
+"
+208,Houchens Industries–LT Smith Stadium,"23,776",Bowling Green,Kentucky,1968,Football,"Western Kentucky Hilltoppers (NCAA)
+"
+209,Arthur Ashe Stadium,"23,711", New York,New York,1997,Tennis,"U.S. Open
+"
+210,Fitton Field,"23,500",Worcester,Massachusetts,1924,Football,"Holy Cross Crusaders (NCAA)
+"
+211,Tom Benson Hall of Fame Stadium,"23,000",Canton,Ohio,1938,Football,"Pittsburgh Maulers (USFL)  New Jersey Generals (USFL)
+"
+212,City Stadium,"22,611",Richmond,Virginia,1929,Soccer,"Richmond Kickers (USL League One)
+"
+213,Jack Spinks Stadium,"22,500",Lorman,Mississippi,1992,Football,"Alcorn State Braves (NCAA)
+"
+214,John B. and June M. Scheumann Stadium,"22,500",Muncie,Indiana,1967,Football,"Ball State Cardinals (NCAA)
+"
+215,CityPark,"22,423",St. Louis,Missouri,2022,Soccer,"St. Louis City SC (MLS)
+"
+216,Weingart Stadium,"22,355",Monterey Park,California,1955,Multipurpose,"East Los Angeles Huskies (CCCAA)
+"
+217,Shell Energy Stadium,"22,039",Houston,Texas,2012,Soccer,"Houston Dynamo (MLS) Texas Southern Tigers (NCAA)Houston Dash (NWSL)
+"
+218,Oliver C. Dawson Stadium,"22,000",Orangeburg,South Carolina,1955,Football,"South Carolina State Bulldogs (NCAA)
+"
+219,BMO Stadium,"22,000",Los Angeles,California,2018,Soccer,"
+Los Angeles FC (MLS)Angel City FC (NWSL)
+
+"
+220,Delaware Stadium,"22,000",Newark,Delaware,1952,Football,"Delaware Fightin' Blue Hens (NCAA)
+"
+221,Kornblau Field at S.B. Ballard Stadium,"21,944",Norfolk,Virginia,1936,Football,"Old Dominion Monarchs (NCAA)
+"
+222,CEFCU Stadium,"21,520",San Jose,California,1933,Football,"San Jose State Spartans (NCAA)
+"
+223,Schoellkopf Field,"21,500",Ithaca,New York,1915,Football,"Cornell Big Red (NCAA)
+"
+224,BREC Memorial Stadium,"21,500",Baton Rouge,Louisiana,1956,Football,"Local high school teams
+"
+225,Truist Stadium,"21,500",Greensboro,North Carolina,1981,Football,"North Carolina A&T Aggies (NCAA)
+"
+226,Hornet Stadium,"21,195",Sacramento,California,1969,Football,"Sacramento State Hornets (NCAA)
+"
+227,Louis Crews Stadium,"21,000",Huntsville,Alabama,1996,Football,"Alabama A&M Bulldogs (NCAA)
+"
+228,Brooks Stadium,"21,000",Conway,South Carolina,2003,Football,"Coastal Carolina Chanticleers (NCAA) Myrtle Beach Bowl (NCAA)
+"
+229,DRV PNK Stadium,"21,000",Fort Lauderdale,Florida,2020,Soccer,"Inter Miami CF (MLS)
+"
+230,Bobcat Stadium,"20,767",Bozeman,Montana,1973,Football,"Montana State Bobcats (NCAA)
+"
+231,Q2 Stadium,"20,738",Austin,Texas,2021,Soccer,"Austin FC (MLS)
+"
+232,Stambaugh Stadium,"20,630",Youngstown,Ohio,1982,Football,"Youngstown State Penguins (NCAA)
+"
+233,Toyota Stadium,"20,500",Frisco,Texas,2005,Soccer,"FC Dallas (MLS) Frisco Bowl (NCAA) NCAA Division I Football Championship Game (FCS) (NCAA)
+"
+234,Finley Stadium,"20,412",Chattanooga,Tennessee,1997,Football,"Chattanooga Mocs (NCAA)
+"
+235,Lower.com Field,"20,371",Columbus,Ohio,2021,Soccer,"Columbus Crew (MLS)
+"
+236,Hughes Stadium,"20,311",Sacramento,California,1928,Multi-purpose,"
+"
+237,America First Field,"20,213",Sandy,Utah,2008,Soccer,"Real Salt Lake (MLS)  Utah Royals FC (NWSL)
+"
+238,Brown Stadium,"20,000",Providence,Rhode Island,1925,Football,"Brown Bears (NCAA)
+"
+239,Happy State Bank Stadium,"20,000",Canyon,Texas,1959,Football,"West Texas A&M Buffaloes (NCAA) Local high school teams
+"
+240,Roy Kidd Stadium,"20,000",Richmond,Kentucky,1969,Football,"Eastern Kentucky Colonels (NCAA)
+"
+241,Central Broward Park,"20,000",Lauderhill,Florida,1969,Multipurpose,"Floridians FC, Fort Lauderdale Fighting Squids
+"
+242,War Memorial Stadium,"20,000",Wailuku,Hawaii,1969,Multipurpose,"Local high school teams
+"
+243,Riccardo Silva Stadium,"20,000",Miami,Florida,1995,Football,"FIU Golden Panthers (NCAA)Miami FC (USL Championship)
+"
+244,SeatGeek Stadium,"20,000",Bridgeview,Illinois,2006,Soccer,"Chicago Red Stars (NWSL)Chicago House AC (NISA)  Chicago Hounds (MLR)
+"
+245,Audi Field,"20,000","Washington, D.C.",District of Columbia,2018,Multipurpose,"D.C. United (MLS)Washington Spirit (NWSL)  DC Defenders (XFL)
+"
+246,Historic Crew Stadium,"19,968",Columbus,Ohio,1999,Soccer,"
+"
+247,Bragg Memorial Stadium,"19,633",Tallahassee,Florida,1957,Football,"Florida A&M Rattlers (NCAA)
+"
+248,Eddie G. Robinson Memorial Stadium,"19,600",Grambling,Louisiana,1983,Football,"Grambling State Tigers (NCAA)
+"
+249,Memorial Stadium,"19,468",Bakersfield,California,1955,Multipurpose,"Bakersfield Renegades (CCCAA)
+"
+250,Mesquite Memorial Stadium,"19,400",Mesquite,Texas,1977,Football,"Local high school teams
+"
+251,Allianz Field,"19,400",St. Paul,Minnesota,2019,Soccer,"Minnesota United FC (MLS)
+"
+252,Dana J. Dykhouse Stadium,"19,340",Brookings,South Dakota,2016,Football,"South Dakota State Jackrabbits (NCAA)
+"
+253,Fargodome,"18,700",Fargo,North Dakota,1992,Multi-purpose,"North Dakota State Bison (NCAA)
+"
+254,Subaru Park,"18,500",Chester,Pennsylvania,2010,Soccer,"Philadelphia Union (MLS)
+"
+255,UC Stadium at Laidley Field,"18,500",Charleston,West Virginia,1979,"Football, track","Charleston Golden Eagles (NCAA)
+"
+256,Children's Mercy Park,"18,467",Kansas City,Kansas,2011,Soccer,"Sporting Kansas City (MLS)Kansas City Current (NWSL)
+"
+257,Dick's Sporting Goods Park,"18,061",Commerce City,Colorado,2007,Soccer,"Colorado Rapids (MLS)
+"
+258,PayPal Park,"18,000",San Jose,California,2015,Soccer,"San Jose Earthquakes (MLS) Bay FC (NWSL)
+"
+259,Ratliff Stadium,"17,931",Odessa,Texas,1982,Football,"Local high school teams
+"
+260,Cowboy Stadium,"17,610",Lake Charles,Louisiana,1965,Football,"McNeese Cowboys (NCAA)
+"
+261,Robert W. Plaster Stadium,"17,500",Springfield,Missouri,1941,Football,"Missouri State Bears (NCAA)
+"
+262,Stewart Stadium,"17,312",Ogden,Utah,1966,Football,"Weber State Wildcats (NCAA)
+"
+263,Robert K. Kraft Field at Lawrence A. Wien Stadium,"17,000", New York,New York,1923,Multi-purpose,"Columbia Lions (NCAA)
+"
+264,Warren McGuirk Alumni Stadium,"17,000",Hadley,Massachusetts,1965,Multi-purpose,"UMass Minutemen (NCAA)
+"
+265,Harder Stadium,"17,000",Santa Barbara,California,1966,Soccer,"UC Santa Barbara Gauchos (NCAA)
+"
+266,Pendleton Round Up Stadium,"17,000",Pendleton,Oregon,,"Rodeo, football","Pendleton Round Up
+"
+267,Clarence T. C. Ching Athletics Complex,"16,909",Honolulu,Hawaii,2015,Multi-purpose,"Hawaii Rainbow Warriors (NCAA)
+"
+268,Roy Stewart Stadium,"16,800",Murray,Kentucky,1973,Football,"Murray State Racers (NCAA)
+"
+269,Sahlen Field,"16,600",Buffalo,New York,1988,Baseball,"Buffalo Bisons (IL)
+"
+270,Paul Brown Tiger Stadium,"16,600",Massillon,Ohio,1939,Football,"Washington High School (high school)
+"
+271,Tucker Stadium,"16,500",Cookeville,Tennessee,1966,Football,"Tennessee Tech Golden Eagles (NCAA)
+"
+272,Hanson Field,"16,368",Macomb,Illinois,1950,Football,"Western Illinois Leathernecks (NCAA)
+"
+273,UNI-Dome,"16,324",Cedar Falls,Iowa,1976,Football,"Northern Iowa Panthers (NCAA)
+"
+274,Stadium 1,"16,100",Indian Wells,California,2014,Tennis,"
+"
+275,Provost Umphrey Stadium,"16,000",Beaumont,Texas,1964,Football,"Lamar Cardinals (NCAA)
+"
+276,Stallworth Stadium,"16,000",Baytown,Texas,1969,"Football, soccer","
+"
+277,Kibbie Dome,"16,000",Moscow,Idaho,1971,Football,"Idaho Vandals (NCAA)
+"
+278,Paladin Stadium,"16,000",Greenville,South Carolina,1981,"Football, soccer","Furman Paladins (NCAA) Greenville Triumph SC (USL League One) Greenville Liberty SC (USL W League)
+"
+279,Goodman Stadium,"16,000",Bethlehem,Pennsylvania,1988,Football,"Lehigh Mountain Hawks (NCAA)
+"
+280,Simmons Bank Field,"16,000",Pine Bluff,Arkansas,2000,Football,"Arkansas–Pine Bluff Golden Lions (NCAA)
+"
+281,Harry Turpin Stadium,"15,971",Natchitoches,Louisiana,1975,Football,"Northwestern State Demons (NCAA)
+"
+282,Hersheypark Stadium,"15,641",Hershey,Pennsylvania,1939,"Football, soccer","
+"
+283,James R. Hallford Stadium,"15,600",Clarkston,Georgia,1968,Football,"
+"
+284,Jerry Richardson Stadium,"15,314",Charlotte,North Carolina,2013,Football,"Charlotte 49ers (NCAA)
+"
+285,Stadium Bowl,"15,000",Tacoma,Washington,1910,Football,"
+"
+286,Quigley Stadium,"15,000[citation needed]",Little Rock,Arkansas,1936,Football,"
+"
+287,Greenway Avenue Stadium,"15,000",Cumberland,Maryland,1937,Football,"
+"
+288,J. Birney Crum Stadium,"15,000",Allentown,Pennsylvania,1948,"Football, soccer","
+"
+289,Dick Bivins Stadium,"15,000",Amarillo,Texas,1950,Football,"
+"
+290,Saluki Stadium,"15,000",Carbondale,Illinois,2010,Football,"Southern Illinois Salukis (NCAA)
+"
+291,Sloan Park,"15,000",Mesa,Arizona,2014,Baseball,"Mesa Solar Sox (AFL)
+"
+292,Panther Stadium at Blackshear Field,"15,000",Prairie View,Texas,2016,Football,"Prairie View A&M Panthers (NCAA)
+"
+293,Rocky Stadium,"15,000",Rock Island,Illinois,,"Football, soccer","
+"
+294,Watson Memorial Stadium,"15,000",Hobbs,New Mexico,,Football,"
+"
+295,Homer Bryce Stadium,"14,575",Nacogdoches,Texas,1973,Football,"Stephen F. Austin Lumberjacks (NCAA)
+"
+296,Drake Stadium,"14,557",Cedar Falls,Iowa,1925,"Football, soccer","Drake Bulldogs (NCAA)
+"
+297,Smith's Ballpark,"14,511",Salt Lake City,Utah,1994,Baseball,"Salt Lake Bees (PCL)
+"
+298,Braly Municipal Stadium,"14,215",Florence,Alabama,1949,Football,"North Alabama Lions (NCAA)
+"
+299,Louis Armstrong Stadium,"14,053", New York,New York,2018,Tennis,"
+"
+300,Bowers Stadium,"14,000",Huntsville,Texas,1986,Football,"Sam Houston Bearkats (NCAA)
+"
+301,Rhodes Stadium,"14,000",Elon,North Carolina,2001,Football,"Elon Phoenix (NCAA)
+"
+302,Rochester Community Sports Complex Stadium,"13,768",Rochester,New York,2006,Soccer,"Flower City Union (NISA)
+"
+303,Bob Waters Field at EJ Whitmire Stadium,"13,742",Cullowhee,North Carolina,1974,Football,"Western Carolina Catamounts (NCAA)
+"
+304,McAllen Veterans Memorial Stadium,"13,500",McAllen,Texas,1976,"Football, soccer","
+"
+305,Innovative Field,"13,500",Rochester,New York,1996,Baseball,"Rochester Red Wings (IL)
+"
+306,Hancock Stadium,"13,391",Normal,Illinois,1963,Football,"Illinois State Redbirds (NCAA)
+"
+307,Fisher Stadium,"13,132",Easton,Pennsylvania,1926,Football,"Lafayette Leopards (NCAA)
+"
+308,Louisville Slugger Field,"13,131",Louisville,Kentucky,2000,Baseball,"Louisville Bats (IL)
+"
+309,Christy Mathewson–Memorial Stadium,"13,100",Lewisburg,Pennsylvania,1924,Football,"Bucknell Bison (NCAA)
+"
+310,Gibbs Stadium,"13,000",Spartanburg,South Carolina,1996,Football,"Wofford Terriers (NCAA)
+"
+311,Camelback Ranch,"13,000",Phoenix,Arizona,2009,Baseball,"Glendale Desert Dogs (AFL)
+"
+312,Tommy Standridge Stadium,"13,000",Carrollton,Texas,,"Football, soccer","
+"
+313,Memorial Stadium,"12,764",Terre Haute,Indiana,1924,"Football, soccer","Indiana State Sycamores (NCAA)
+"
+314,Pasadena Memorial Stadium,"12,700",Pasadena,Texas,1965,"Football, soccer","
+"
+315,Zable Stadium,"12,672",Williamsburg,Virginia,1935,Football,"William & Mary Tribe (NCAA)
+"
+316,Hayward Field,"12,650",Eugene,Oregon,1919,Track and Field,"Oregon Ducks (NCAA)
+"
+317,Villanova Stadium,"12,500",Villanova,Pennsylvania,1927,"Field lacrosse, football","Villanova Wildcats (NCAA)
+"
+318,Pennington Field,"12,500",Bedford,Texas,1987,"Football, soccer","
+"
+319,Dutch Clark Stadium,"12,500",Pueblo,Colorado,,Football,"
+"
+320,Joy and Ralph Ellis Stadium,"12,500",Irving,Texas,,"Football, soccer","
+"
+321,Kenneth P. LaValle Stadium,"12,300",Stony Brook,New York,2002,Football,"Stony Brook Seawolves (NCAA)
+"
+322,Alerus Center,"12,283",Grand Forks,North Dakota,2001,Multi-purpose,"North Dakota Fighting Hawks (NCAA)
+"
+323,Victory Field,"12,230",Indianapolis,Indiana,1996,Baseball,"Indianapolis Indians (IL)
+"
+324,Wheeling Island Stadium,"12,220",Wheeling,West Virginia,1927,"Football, soccer","
+"
+325,Swayze Field,"12,152",Oxford,Mississippi,1988,Baseball,"Ole Miss Rebels (NCAA)
+"
+326,The Diamond,"12,134",Richmond,Virginia,1985,Baseball,"Richmond Flying Squirrels (Eastern)VCU Rams (NCAA)
+"
+327,IU Michael A. Carroll Track & Soccer Stadium,"12,111",Indianapolis,Indiana,1982,Soccer,"Indy Eleven (USL Championship)IUPUI Jaguars (NCAA)
+"
+328,Harbor Park,"12,067",Norfolk,Virginia,1993,Baseball,"Norfolk Tides (IL)
+"
+329,Armstrong Stadium,"12,000",Hampton,Virginia,1928,Football,"Hampton Pirates (NCAA)
+"
+330,Memorial Stadium,"12,000",Seattle,Washington,1947,Multi-purpose,"Seattle Cascades (AUDL)
+"
+331,John F. Kennedy Stadium,"12,000",Bridgeport,Connecticut,1964,Multi-purpose,"
+"
+332,Holt Arena,"12,000",Pocatello,Idaho,1970,Football,"Idaho State Bengals (NCAA)
+"
+333,Scottsdale Stadium,"12,000",Scottsdale,Arizona,1992,Baseball,"Scottsdale Scorpions (AFL)
+"
+334,CH Collins Stadium,"12,000",Denton,Texas,2004,"Football, soccer","
+"
+335,Ford Center,"12,000",Frisco,Texas,2016,Football,"
+"
+336,Anthony Field at Wildcat Stadium,"12,000",Abilene,Texas,2017,Football,"Abilene Christian Wildcats (NCAA)
+"
+337,Bobby Morrow Stadium,"12,000",San Benito,Texas,,"Football, soccer","
+"
+338,Burger Stadium,"12,000",Austin,Texas,,"Football, soccer","
+"
+339,Field of Dreams,"12,000",Las Cruces,New Mexico,,Football,"
+"
+340,Jones-Cowart Stadium,"12,000",Houston,Texas,,"Football, soccer","
+"
+341,James M. Shuart Stadium,"11,929",Hempstead,New York,1963,Multi-purpose,"
+"
+342,Lynn Family Stadium,"11,700",Louisville,Kentucky,2020,Soccer,Louisville City FC (USL Championship) Racing Louisville FC (NWSL)
+343,Dell Diamond,"11,631",Round Rock,Texas,2000,Baseball,"Round Rock Express (PCL)
+"
+344,Ernest Hawkins Field at Memorial Stadium,"11,582",Commerce,Texas,1950,Football,"Texas A&M–Commerce Lions (NCAA)
+"
+345,Heart Health Park,"11,569",Sacramento,California,2014,Soccer,"Sacramento Republic FC (USL Championship)
+"
+346,Principal Park,"11,500",Des Moines,Iowa,1992,Baseball,"Iowa Cubs (IL)
+"
+347,Kino Sports Complex,"11,500",Tucson,Arizona,1998,Baseball,"Tucson Saguaros (Pecos)
+"
+348,Manual Stadium,"11,500",Louisville,Kentucky,,Football,"
+"
+349,Center Court,"11,435",Mason,Ohio,1981,Tennis,"
+"
+350,Johnson Hagood Stadium,"11,427",Charleston,South Carolina,1948,Football,"The Citadel Bulldogs (NCAA)
+"
+351,Peoria Sports Complex,"11,333",Peoria,Arizona,1994,Baseball,"Peoria Javelinas (AFL)
+"
+352,Rebel Stadium,"11,244",West Monroe,Louisiana,1950,Football,"
+"
+353,Walkup Skydome,"11,230",Flagstaff,Arizona,1977,Football,"Northern Arizona Lumberjacks (NCAA)
+"
+354,Johnny Unitas Stadium,"11,198",Towson,Maryland,1978,Football,"Towson Tigers (NCAA)
+"
+355,Isotopes Park,"11,124",Albuquerque,New Mexico,2003,"Baseball, soccer","Albuquerque Isotopes (PCL)New Mexico United (USL Championship)
+"
+356,Alex G. Spanos Stadium,"11,075",San Luis Obispo,California,1935,"Football, soccer","Cal Poly Mustangs (NCAA)
+"
+357,George M. Steinbrenner Field,"11,026",Tampa,Florida,1996,Baseball,"Tampa Tarpons (FSL)
+"
+358,Wildcat Stadium,"11,015",Durham,New Hampshire,1936,Football,"New Hampshire Wildcats (NCAA)
+"
+359,Memorial Field,"11,000",Hanover,New Hampshire,1893,Football,"Dartmouth Big Green (NCAA)
+"
+360,Atwood Stadium,"11,000",Flint,Michigan,1929,"Football, soccer","Flint City Bucks (USL League Two)
+"
+361,Welcome Stadium,"11,000",Dayton,Ohio,1949,Football,"Dayton Flyers (NCAA)
+"
+362,121 Financial Ballpark,"11,000",Jacksonville,Florida,2003,Baseball,"Jacksonville Jumbo Shrimp (IL)
+"
+363,Salt River Fields at Talking Stick,"11,000",Scottsdale,Arizona,2011,Baseball,"Salt River Rafters (AFL)
+"
+364,Cy-Fair FCU Stadium,"11,000",Cypress,Texas,,"Football, soccer","
+"
+365,Kelly Reeves Stadium,"11,000",Austin,Texas,,Football,"
+"
+366,Union-Tuttle Stadium,"11,000",Tulsa,Oklahoma,,Football,"
+"
+367,NBT Bank Stadium,"10,815",Syracuse,New York,1997,Baseball,"Syracuse Mets (IL)
+"
+368,UC Davis Health Stadium,"10,743",Davis,California,2007,Football,"UC Davis Aggies (NCAA)
+"
+369,Baum–Walker Stadium,"10,737",Fayetteville,Arkansas,1996,Baseball,"Arkansas Razorbacks (NCAA)
+"
+370,Surprise Stadium,"10,714",Surprise,Arizona,2002,Baseball,"Surprise Saguaros (AFL)
+"
+371,Chukchansi Park,"10,650",Fresno,California,2002,Baseball,"Fresno Grizzlies (CL)
+"
+372,Sutter Health Park,"10,624",Sacramento,California,2000,Baseball,"Sacramento River Cats (PCL)
+"
+373,American Legion Memorial Stadium,"10,500",Charlotte,North Carolina,1936,"Football, soccer","Charlotte Independence (USL League One)
+"
+374,Manning Field at John L. Guidry Stadium,"10,500",Thibodaux,Louisiana,1972,Football,"Nicholls Colonels (NCAA)
+"
+375,Greater Zion Stadium,"10,500",St. George,Utah,1985,Football,"Utah Tech Trailblazers (NCAA)
+"
+376,Hohokam Stadium,"10,500",Mesa,Arizona,1997,Baseball,"
+"
+377,Lubbers Stadium,"10,444",Allendale,Michigan,1972,Football,Grand Valley State Lakers (NCAA)
+378,Coolray Field,"10,427",Lawrenceville,Georgia,2009,Baseball,"Gwinnett Stripers (IL)
+"
+379,Mansion Park,"10,400",Altoona,Pennsylvania,,"Football, soccer, track and field","
+"
+380,Alex Box Stadium,"10,326",Baton Rouge,Louisiana,2009,Baseball,"LSU Tigers (NCAA)
+"
+381,Crown Field at Andy Kerr Stadium,"10,221",Hamilton,New York,1939,"Football, field lacrosse","Colgate Raiders (NCAA)
+"
+382,Credit One Stadium,"10,200",Charleston,South Carolina,2001,Tennis,"
+"
+383,Truist Field,"10,200",Charlotte,North Carolina,2014,Baseball,"Charlotte Knights (IL)
+"
+384,Five Star Stadium,"10,200",Macon,Georgia,2013,Football,"Mercer Bears (NCAA)
+"
+385,Cavalier Stadium,"10,200",Roebuck,South Carolina,,Football,"
+"
+386,Huntington Park,"10,100",Columbus,Ohio,2009,Baseball,"Columbus Clippers (IL)
+"
+387,Riverfront Stadium,"10,025",Wichita,Kansas,2021,Baseball,"Wichita Wind Surge (Texas)
+"
+388,Tiger Stadium,"10,001",Corsicana,Texas,2006,"Football, soccer","
+"
+389,William H. Greene Stadium,"10,000","Washington, D.C.",District of Columbia,1926,Football,"Howard Bison (NCAA)
+"
+390,Mitchell Stadium,"10,000",Bluefield,West Virginia,1936,Football,"
+"
+391,Hughes Stadium,"10,000",Baltimore,Maryland,1937,Football,"Morgan State Bears (NCAA)
+"
+392,Estes Stadium,"10,000",Conway,Arkansas,1939,Football,"Central Arkansas Bears (NCAA)
+"
+393,Fortera Stadium,"10,000",Clarksville,Tennessee,1946,Football,"Austin Peay Governors (NCAA)
+"
+394,Alfond Stadium,"10,000",Orono,Maine,1947,Football,"Maine Black Bears (NCAA)
+"
+395,FirstEnergy Stadium,"10,000",Reading,Pennsylvania,1951,Baseball,"Reading Fightin Phils (Eastern)
+"
+396,Howard Wood Field,"10,000",Sioux Falls,South Dakota,1957,"Football, soccer","
+"
+397,Rice–Totten Stadium,"10,000",Itta Bena,Mississippi,1958,Football,"Mississippi Valley State Delta Devils (NCAA)
+"
+398,Alumni Memorial Field,"10,000",Lexington,Virginia,1962,Football,"VMI Keydets (NCAA)
+"
+399,Jayne Stadium,"10,000",Morehead,Kentucky,1964,Football,"Morehead State Eagles (NCAA)
+"
+400,O'Brien Field,"10,000",Charleston,Illinois,1970,Football,"Eastern Illinois Panthers (NCAA)
+"
+401,O'Kelly–Riddick Stadium,"10,000",Durham,North Carolina,1975,Football,"North Carolina Central Eagles (NCAA)
+"
+402,PNC Field,"10,000",Moosic,Pennsylvania,1989,Baseball,"Scranton/Wilkes-Barre RailRiders (IL)
+"
+403,Northwestern Medicine Field,"10,000",Geneva,Illinois,1991,Baseball,"Kane County Cougars (American Association)
+"
+404,Prince George's Stadium,"10,000",Bowie,Maryland,1994,Baseball,"Bowie Baysox (Eastern)
+"
+405,Durham Bulls Athletic Park,"10,000",Durham,North Carolina,1995,Baseball,"Durham Bulls (IL)
+"
+406,Gold Mine on Airline,"10,000",Metairie,Louisiana,1997,Multipurpose,"New Orleans Gold (MLR)
+"
+407,American Family Fields of Phoenix,"10,000",Phoenix,Arizona,1998,Baseball,"
+"
+408,Autozone Park,"10,000",Memphis,Tennessee,2000,"Baseball, Soccer","Memphis Redbirds (IL)Memphis 901 FC (USL Championship)
+"
+409,WakeMed Soccer Park,"10,000",Cary,North Carolina,2002,Soccer,"North Carolina Courage (NWSL)North Carolina FC (USL League One)Carolina Flyers (AUDL)
+"
+410,First Horizon Park,"10,000",Nashville,Tennessee,2015,Baseball,"Nashville Sounds (IL)
+"
+411,Wild Horse Pass Stadium,"10,000",Chandler,Arizona,2021,Soccer,"Phoenix Rising FC (USL Championship)
+"
+412,Dub Farris Stadium,"10,000[citation needed]",San Antonio,Texas,,"Football, soccer","
+"
+413,Jerry Comalander Stadium,"10,000",San Antonio,Texas,,"Football, soccer","
+"
+414,"Nathaniel ""Traz"" Powell Stadium","10,000[citation needed]",Miami,Florida,,Football,"
+"
+415,Sams Memorial Stadium,"10,000[citation needed]",Brownsville,Texas,,"Football, soccer","
+"
+416,Waller ISD Stadium,"10,000",Waller,Texas,,Football,"
+"
+417,Rip Hewes Stadium,"10,000",Dothan,Alabama,,multipurpose,"
+"
+418,Withington Stadium,"10,000",Jackson,Michigan,,multipurpose,"
+"
+419,Kingston Stadium,"10,000",Cedar Rapids,Iowa,1952,"Football, soccer","
+"
+420,Suplizio Field,"10,000",Grand Junction,Colorado,1949,Baseball,"Grand Junction Jackalopes (Pioneer)
+"
+421,Houck Stadium,"10,000",Cape Girardeau,Missouri,1930,Football,"Southeast Missouri State Redhawks (NCAA)
+"
+422,Reitz Bowl,"10,000",Evansville,Indiana,,Football,"
+"
